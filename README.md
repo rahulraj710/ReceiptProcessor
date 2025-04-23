@@ -1,0 +1,2 @@
+# ReceiptProcessor
+Calculates points
